@@ -23,7 +23,7 @@ oven temp 375  F
 beat ingredients until smooth
 
 --cake--
-combine flour, baking powder, cinnamon, ginger salt in seperate bowl
+combine flour, baking powder, cinnamon, ginger salt in separate bowl
 
 beat eggs at high speed (5 mins)
 gradually beat in sugar
