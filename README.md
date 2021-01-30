@@ -5,6 +5,7 @@ a collection of recipes
 * batter
   * cakes
     * carrot-cake.txt
+    * coffee-cake.txt
     * pancakes-waffles.txt
     * pumpkin-roll.txt
   * doughnuts
