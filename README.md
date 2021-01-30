@@ -10,7 +10,7 @@ a collection of recipes
     * [pancakes-waffles.txt](https://github.com/serenetangerine/recipes/tree/master/batter/cakes/pancakes-waffles.txt)
     * [pumpkin-roll.txt](https://github.com/serenetangerine/recipes/tree/master/batter/cakes/pumpkin-roll.txt)    
   * [doughnuts](https://github.com/serenetangerine/recipes/tree/master/batter/doughnuts)
-    * [spice-cake.txt](https://github.com/serenetangerine/recipes/tree/master/doughnuts/spice-cake.txt)
+    * [spice-cake.txt](https://github.com/serenetangerine/recipes/tree/master/batter/doughnuts/spice-cake.txt)
 * [dough](https://github.com/serenetangerine/recipes/tree/master/dough)
   * [breads](https://github.com/serenetangerine/recipes/tree/master/dough/breads)
     * [butter-milk-cinnamon-rolls.txt](https://github.com/serenetangerine/recipes/tree/master/dough/breads/butter-milk-cinnamon-rolls.txt)
