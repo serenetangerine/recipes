@@ -4,6 +4,7 @@ a collection of recipes
 ## Table of Contents
 * batter
   * cakes
+    * banana-bread.txt
     * carrot-cake.txt
     * coffee-cake.txt
     * pancakes-waffles.txt
