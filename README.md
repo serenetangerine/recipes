@@ -16,6 +16,7 @@ a collection of recipes
     * [butter-milk-cinnamon-rolls.txt](https://github.com/serenetangerine/recipes/tree/master/dough/breads/butter-milk-cinnamon-rolls.txt)
     * [cheesy-jalapeno.txt](https://github.com/serenetangerine/recipes/tree/master/dough/breads/cheesy-jalapeno.txt)
   * [cookies](https://github.com/serenetangerine/recipes/tree/master/dough/cookies)
+    * [chocolate-chip.txt](https://github.com/serenetangerine/recipes/blob/main/dough/cookies/chocolate-chip.txt)
     * [coffee-oatmeal.txt](https://github.com/serenetangerine/recipes/tree/master/dough/cookies/coffee-oatmeal.txt)
     * [peanutbutter.txt](https://github.com/serenetangerine/recipes/tree/master/dough/cookies/peanutbutter.txt)
     * [strawberry-chip.txt](https://github.com/serenetangerine/recipes/tree/master/dough/cookies/strawberry-chip.txt)
