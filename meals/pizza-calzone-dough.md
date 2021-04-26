@@ -1,4 +1,13 @@
------INGREDIENTS-----
+# Pizza and / or Calzone Dough
+> Author: mattie
+> 
+> Version: 1.0
+> 
+> Modified:
+
+
+## INGREDIENTS
+```
 --dough--
 4   cups flour
 1   tsp sugar
@@ -9,14 +18,17 @@
 2   tbs olive oil
 3/2 cup warm water (~110 F)
 
-
 --egg wash (optional)--
 1   egg
 1/2 cup milk
+```
 
------INSTRUCTIONS-----
-oven temp 350 degrees
 
+## INSTRUCTIONS
+
+**oven temp 350 degrees**
+
+```
 add yeast to 1/2 cup warm water and sugar for nutrients
 wait ~10 minutes until yeasty beasties double in volume
 
@@ -34,3 +46,4 @@ close pastry with pinch and tuck method
 
 bake ~10 minutes
 let cool
+```
