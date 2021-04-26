@@ -1,4 +1,13 @@
------INGREDIENTS-----
+# Pumpkin Roll
+> Author: mattie
+> 
+> Version: 1.0
+> 
+> Modified:
+
+
+# INGREDIENTS
+```
 --cake--
 3   eggs
 2/3 cup pumpkin
@@ -15,10 +24,14 @@
 8   oz cream cheese
 4   tbs butter
 1/2 tsp vanilla
+```
 
------INSTRUCTIONS-----
-oven temp 375  F
 
+## INSTRUCTIONS
+
+**oven temp 375 F**
+
+```
 --filling--
 beat ingredients until smooth
 
@@ -38,3 +51,4 @@ bake ~15 minutes
 
 remove cake from pan onto towel and roll in towel to cool
 when still warm, unroll and add filling, then reroll w/o towel
+```
