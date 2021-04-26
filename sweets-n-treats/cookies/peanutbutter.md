@@ -1,4 +1,13 @@
------INGREDIENTS-----
+# Peanut Butter Cookies
+> Author: mattie
+> 
+> Version: 1.0
+> 
+> Modified
+
+
+## INGREDIENTS
+```
 1   stick butter
 1/2 cup peanut butter
 1/2 cup sugar
@@ -8,11 +17,14 @@
 1/2 tsp baking powder
 1/4 tsp salt
 3/4 tsp baking soda
+```
 
 
------INSTRUCTIONS-----
-oven temp 375  F
+## INSTRUCTIONS
 
+**oven temp 375 F**
+
+```
 mix in separate bowl flour, baking powder, baking soda, salt
 
 mix butter, peanut butter, sugars
@@ -23,3 +35,4 @@ refrigerate 1 hour
 
 roll dough into balls and flatten on a cookie sheet with a fork (makes lovely pattern on top)
 bake ~10 minutes 
+```
