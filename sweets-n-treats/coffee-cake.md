@@ -20,7 +20,7 @@
 2   tsp vanilla
 
 --topping--
-*1  flour mixture
+1  flour mixture
 2/3 cup brown sugar
 2 tsp cinnamon
 ```
