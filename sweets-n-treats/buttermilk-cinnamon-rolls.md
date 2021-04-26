@@ -1,4 +1,13 @@
------INGREDIENTS-----
+# Buttermilk Cinnamon Rolls
+> Author: mattie
+> 
+> Version: 1.0
+> 
+> Modified:
+
+
+## INGREDIENTS
+```
 --bread--
 1   pkg yeast
 1/8 cup warm water
@@ -16,10 +25,14 @@
 8   oz cream cheese
 4   tbs butter
 1/2 tsp vanilla
+```
 
------INSTRUCTIONS-----
-oven temp 400  F
 
+## INSTRUCTIONS
+
+**oven temp 400 F**
+
+```
 prepare yeast and warm water, let yeastie beasties grow big and strong
 heat buttermilk until warm to the touch
 
@@ -43,3 +56,4 @@ bake ~20 minutes
 
 beat icing ingredients until smooth
 spread icing on finished rolls
+```
