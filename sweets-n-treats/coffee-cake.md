@@ -1,4 +1,13 @@
------INGREDIENTS-----
+## Coffee Cake
+> Author: mattie
+>
+> Version: 1.0
+> 
+> Modified:
+
+
+## INGREDIENTS
+```
 --cake--
 2   cups flour
 1   cup sugar
@@ -10,15 +19,17 @@
 1   egg
 2   tsp vanilla
 
-
---topping
+--topping--
 *1  flour mixture
 2/3 cup brown sugar
 2 tsp cinnamon
+```
 
------INSTRUCTIONS-----
-oven temp 350  F
+## INSTRUCTIONS
 
+**oven temp 350 F**
+
+```
 --cake--
 mix flour, sugar, and salt
 add in butter
@@ -37,4 +48,4 @@ top batter with topping, pressing lightly to stick
 
 bake ~55 minutes
 cool for ~10 minutes before removing from pan
-
+```
