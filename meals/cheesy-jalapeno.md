@@ -1,4 +1,13 @@
------INGREDIENTS-----
+# Cheesy Jalapeno Bread
+> Author: Blake
+> 
+> Version: 1.0
+> 
+> Modified:
+
+
+## INGREDIENTS
+```
 2   cups flour
 3/2 tsp baking powder
 1/2 tsp baking soda
@@ -10,10 +19,14 @@
 1/4 cup butter
 5/4 cup cheddar cheese
 1   jalapeno
+```
 
------INSTRUCTIONS-----
-oven temp 350 F
 
+## INSTRUCTIONS
+
+**oven temp 350 F**
+
+```
 in a separate bowl combine flour, baking powder, baking soda, sugar, and salt
 
 mix yogurt, milk, egg, and butter (melted) 
@@ -22,3 +35,4 @@ fold in cheddar cheese and jalapeno
 
 fill 9x5 baking tin
 bake ~x minutes
+```
