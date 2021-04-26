@@ -1,4 +1,14 @@
- -----INGREDIENTS-----
+# Banana Oatmeal Cookies
+*No sugar added!*
+> Author: mattie
+> 
+> Version: 1.0
+> 
+> Modified:
+
+
+## INGREDIENTS
+```
 3   bananas mashed
 1/3 cups apple sauce
 2   cups oats
@@ -7,10 +17,14 @@
 1   cup chocolate chunks
 1   tsp vanilla
 1   tsp cinnamon
+```
 
- -----INSTRUCTIONS-----
-oven temp 350 F
 
+## INSTRUCTIONS
+
+**oven temp 350 F**
+
+```
 mash bananas
 mix mashed banana, almond milk, apple sauce, and vanilla
 
@@ -20,3 +34,4 @@ stir in raisins, nuts, and chocolate chunks
 bake ~15 minutes
 
 cool on wire rack
+```
