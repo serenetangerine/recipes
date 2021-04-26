@@ -1,4 +1,13 @@
------INGREDIENTS-----
+# Coffee Oatmeal Cookies
+*mattie's specialty*
+> Author: mattie
+> 
+> Version: 1.0
+> Modified
+
+
+## INGREDIENTS
+```
 1   cup flour
 1   cup oats
 1   tsp baking soda
@@ -9,11 +18,14 @@
 1   tsp cinnamon
 1   large egg
 1/4 cup coffee (finely ground or instant)
+```
 
 
------INSTRUCTIONS-----
-oven temp 375 F
+## INSTRUCTIONS
 
+**oven temp 375 F**
+
+```
 --grounds--
 grind coffee super fine
 still grounds in seive to filter out larger chunks
@@ -29,3 +41,4 @@ gradually add dry ingredients
 
 bake ~10 minutes
 cool on wire rack
+```
