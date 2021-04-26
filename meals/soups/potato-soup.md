@@ -1,4 +1,13 @@
------INGREDIENTS-----
+# Potato Soup
+> Author: mattie
+> 
+> Version: 1.0
+> 
+> Modified
+
+
+## INGREDIENTS
+```
 1/2 stick butter
 1   sausage (crumbled) or bacon if not using butter
 1   onion (chopped)
@@ -11,8 +20,11 @@
 3   cups milk
 1   tbs dried parsley
 1/4 tsp dried thyme
+```
 
------INSTRUCTIONS-----
+
+## INSTRUCTIONS
+```
 brown sausage / cook bacon, or melt butter
 remove meat and saute onions in grease or butter
 absorb oil with flour to make paste
@@ -22,4 +34,5 @@ add in flour paste and gradually add milk
 return meat to the soup
 add black pepper to taste
 let simmer until desired consistency
+```
 
