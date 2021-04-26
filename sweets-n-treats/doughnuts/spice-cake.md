@@ -1,4 +1,13 @@
------INGREDIENTS-----
+# Spice Cake Doughnuts
+> Author: mattie
+>
+> Version: 1.0
+> 
+> Modified:
+
+
+## INGREDIENTS
+```
 --cake--
 2   cups flour
 1   cup sugar
@@ -19,11 +28,14 @@
 3/2 cup sugar
 3/2 tsp cinnamon
 3/4 cup oil
+```
 
 
------INSTRUCTIONS-----
-oven temp 350 F
+## INSTRUCTIONS
 
+**oven temp 350 F**
+
+```
 combine dry ingredients
 whisk eggs + liquids
 gradually add dry ingredients
@@ -33,3 +45,4 @@ cool completely
 
 coat with oil
 toss doughnut in cinnamon sugar mix
+```
