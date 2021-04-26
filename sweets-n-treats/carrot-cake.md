@@ -1,4 +1,13 @@
------INGREDIENTS-----
+# Carrot Cake
+> Author: mattie
+>
+> Version: 1.0
+> 
+> Modified:
+
+
+## INGREDIENTS
+```
 --cake--
 2   cups sugar
 3/4 cup vegetable oil
@@ -19,11 +28,14 @@
 8   oz cream cheese
 1   tsp vanilla
 4   cups powdered sugar
+```
 
 
------INSTRUCTIONS-----
-oven temp 350  F
+## INSTRUCTIONS
 
+**oven temp 350 F**
+
+```
 --cake--
 in a separate bowl combine flour, baking soda, cinnamon, and salt
 
@@ -40,3 +52,4 @@ bake ~ 55 minutes
 combine butter, cream cheese, vanilla, and sugar until creamy
 
 frost cake while still in pan (after baking of course :P)
+```
