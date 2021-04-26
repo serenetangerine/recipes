@@ -12,16 +12,17 @@
 - 7/3 cups mashed overrripe bananas (roughly 2-3 bananas)
 
 
-##INSTRUCTIONS-----
+## INSTRUCTIONS
+
 **oven temp 350 F**
 
 - in a separate bowl mix flour, baking soda, and salt
-- 
+ 
 - cream butter and brown sugar
 - add in eggs and mashed bananas until blended
-- 
+ 
 - pour batter in floured pan
-- 
+ 
 - bake ~1 hour
-- 
+ 
 - let cool in pan for ~10 minutes before turning over to wire rack
