@@ -1,4 +1,11 @@
- -----INGREDIENTS-----
+# Chocolate Chip Cookies
+> Author: mattie
+> Version: 1.0
+> Modified:
+
+
+## INGREDIENTS
+```
 9/4 cup flour
 1   tsp baking soda
 1   tsp salt
@@ -8,10 +15,14 @@
 1   tsp vanilla
 2   eggs
 1-2 cups chocolate chips
+```
 
- -----INSTRUCTIONS-----
- oven temp 375 F
 
+## INSTRUCTIONS
+
+**oven temp 375 F**
+
+```
 combine flour, baking soda, and salt
 
 beat butter, sugar, brown sugar, and vanilla until creamy
@@ -24,3 +35,4 @@ bake ~10 minutes
 (optional) broil shortly when almost baked to crisp outside and leave inside soft
 
 cool on wire rack
+```
