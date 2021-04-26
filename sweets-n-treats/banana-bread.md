@@ -2,6 +2,9 @@
 > Author: mattie
 >
 > Version: 1.0
+>
+> Modified:
+
 
 ## INGREDIENTS
 ```
@@ -13,6 +16,7 @@
 2   eggs
 7/3 cups mashed overrripe bananas (roughly 2-3 bananas)
 ```
+
 
 ## INSTRUCTIONS
 

@@ -1,8 +1,0 @@
------INGREDIENTS-----
---component1--
-
---component2--
-
-
------INSTRUCTIONS-----
-oven temp   F
