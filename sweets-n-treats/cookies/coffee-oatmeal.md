@@ -29,7 +29,7 @@
 ```
 --grounds--
 grind coffee super fine
-still grounds in seive to filter out larger chunks
+stir grounds in seive to filter out larger chunks
 (optional) use larger chunks to make a nice cup of coffee to enjoy while eating cookies
 
 --cookies--
