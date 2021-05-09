@@ -40,7 +40,7 @@ gradually add dry mixture
 mash the dough into a flat square and wrap in plastic wrap
 chill 1 hour
 
-roll the dough between 2 pieces of parchment paper to 1/4"
+roll the dough between 2 pieces of parchment paper to 1/8"
 use a small round cookie cutter to cut the dough into individual rounds
 populate cookie sheet leaving 1/2" between cookies
 
