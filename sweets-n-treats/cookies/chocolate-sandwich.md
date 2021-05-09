@@ -9,7 +9,7 @@
 ## INGREDIENTS
 ```
 --cookies--
-1/2 cup butter (softened
+1/2 cup butter (softened)
 1/2 cup sugar
 1   tsp salt
 1   large egg
@@ -38,7 +38,7 @@ add in egg
 gradually add dry mixture
 
 mash the dough into a flat square and wrap in plastic wrap
-refrigerate 1 hour
+chill 1 hour
 
 roll the dough between 2 pieces of parchment paper to 1/4"
 use a small round cookie cutter to cut the dough into individual rounds
