@@ -1,4 +1,4 @@
-# Chocolate Swirl Breade
+# Chocolate Swirl Bread
 > Author: AP
 >
 > Version: 1.0
