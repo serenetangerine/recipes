@@ -1,4 +1,4 @@
-# Recipe Title
+# Pumpkin Sugar Cookies :jack_o_lantern: 
 > Author: mattie 
 >
 > Version: 1.0
