@@ -42,7 +42,7 @@ beat in egg and vanilla
 mix in pumpkin
 gradually mix in dry ingredients
 
-chill 2 hours :sunglasses:
+chill 2 hours
 
 rollout dough on floured surface
 cut into pumpkin shapes and arrange on cookie sheet 2 inches apart
@@ -62,7 +62,7 @@ set aside ~1/4 cup in seperate bowl
 
 add orange food coloring to main mixture
 
-chill 1/2 hour :sunglasses:
+chill 1/2 hour
 
-pipe on finished cookies onces completely cool and enjoy :yum:
+pipe on finished cookies onces completely cool and enjoy :D
 ```
