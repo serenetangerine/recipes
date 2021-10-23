@@ -37,7 +37,7 @@
 --cookies--
 in a seperate bowl mix flour, baking powder, salt, and cinnamon
 
-beat sugar and botter until creamy
+beat sugar and butter until creamy
 beat in egg and vanilla
 mix in pumpkin
 gradually mix in dry ingredients
