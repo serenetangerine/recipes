@@ -54,7 +54,7 @@ in a small saucepan cook flour and milk until it forms a ball
 cool to room temperature
 
 beat butter and sugar until fluffy
-beat in flour-milk mixture
+beat in flour-milk ball 
 add vanilla
 
 set aside ~1/4 cup in seperate bowl
