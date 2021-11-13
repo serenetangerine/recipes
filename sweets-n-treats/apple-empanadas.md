@@ -8,17 +8,18 @@
 
 ## INGREDIENTS
 ```
+-- dough --
+1   cup butter
+6   ounces cream cheese
 2   cups flour
-2   egg yolks
-1   whole egg
-1   tbs sugar
-1/2 cup water
-1/2 tsp salt
-3   apples
-1/2 cup brown sugar
-1   tbs cinnamon
+
+
+-- filling --
+4   apples
+1/2 cup sugar
+1/2 tsp cinnamon
 1/4 tsp nutmeg
-powdered sugar
+1   pinch salt
 ```
 
 
@@ -28,25 +29,24 @@ powdered sugar
 
 ```
 -- filling --
-peel and dice apples
-cook apples, sugars, cinnamon, and nutmeg on medium heat ~ 5-7 minutes until apples are soft and translucent
-sprinkle with powdered sugar
+peel, core, and dice apples
+
+combine apples, sugar, cinnamon, and salt in saucepan
+bring to a boil
+reduce heat and cover, stirring frequently ~15 minutes
+cool to room temperature
 
 
 -- dough --
-mix 2 egg yolks, salt, and water
-knead in flour
-let set 10 - 15 minutes
+mix butter and cream cheese
+stir in flour until dough forms
 
-roll out dough to ~ 1/8"
-cut dough into 4" circles
-add ~ 2 tbs filling
+cover and refrigerate 8 hours
+
+roll dough into ~10 balls
+roll out each ball into ~3-4" circles ~1/8" thick
+fill ~2 tbs filling
 fold and crimp
 
-whisk egg with splash of water for egg wash
-brush until evenly coated
-
-bake ~ 8-10 minutes
-
-dust powdered sugar
+bake ~15 minutes
 ```
