@@ -1,9 +1,9 @@
 # Pumpkin Roll
 > Author: mattie
 > 
-> Version: 1.0
+> Version: 1.1
 > 
-> Modified:
+> Modified: 25-Nov-2021 added sugar to ingredients list
 
 
 # INGREDIENTS
@@ -17,6 +17,7 @@
 2   tsp cinnamon
 1   tsp ginger (can be substituted with nutmeg in a bind)
 1/2 tsp salt
+1   cup sugar
 1/2 cup finely chopped nuts (optional)
 
 --filling--
