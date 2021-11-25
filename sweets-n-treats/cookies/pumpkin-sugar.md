@@ -35,7 +35,7 @@
 
 ```
 --cookies--
-in a seperate bowl mix flour, baking powder, salt, and cinnamon
+in a separate bowl mix flour, baking powder, salt, and cinnamon
 
 beat sugar and butter until creamy
 beat in egg and vanilla
