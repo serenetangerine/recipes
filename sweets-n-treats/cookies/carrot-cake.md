@@ -41,6 +41,8 @@ in a separate bowl combine flour, baking soda, cinnamon, and salt
 mix butter, brown sugar, and sugar until creamy
 add eggs and vanilla
 
+add in dry ingredients
+
 mix in carrots and pecans
 
 bake ~11 minutes
