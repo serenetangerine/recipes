@@ -9,7 +9,7 @@
 ## INGREDIENTS
 ```
 --cookie--
-1   stick butter
+2   sticks butter
 3/4 cup sugar
 3/4 cup brown sugar
 2   eggs
@@ -23,7 +23,7 @@
 
 --frosting--
 4   cups powdered sugar
-1/2 stick butter
+1   stick butter
 8   oz cream cheese
 1/2 tsp vanilla
 
