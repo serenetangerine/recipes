@@ -33,7 +33,7 @@ gradually mix in dry ingredients
 
 chill 2 hours
 
-roll out dough on floured surface
+roll out dough on floured surface to 1/4"
 cut into shapes and arrange on cookie sheet 2 inches apart
 bake ~8-10 minutes
 ```
