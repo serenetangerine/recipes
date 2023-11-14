@@ -1,5 +1,5 @@
 # Apple Cider Bundt Cake
-> Author: name
+> Author: mattie
 >
 > Version: 1.0
 >
